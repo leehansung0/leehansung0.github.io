@@ -34,7 +34,7 @@ social:
   name: "Hansung, Lee"
   email: 23012144@sju.ac.kr
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
-  links: []
+  links: null
 
 # Site Verification Settings
 webmaster_verifications:
